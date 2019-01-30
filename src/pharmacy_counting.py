@@ -95,6 +95,5 @@ if __name__ == '__main__':
         output_file = sys.argv[2]
         pharmacy_counting_object = PharmacyCounting()
         pharmacy_counting_object.output_top_cost_drug(input_file, output_file, drug_cost_dict)
-        print('_____DONE_____')
     except Exception as e:
         print(e)
