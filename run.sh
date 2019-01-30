@@ -16,7 +16,7 @@
 
 # Run pharmacy_counting.py with the original sample dataset itcont.txt
 echo "Running with pharmacy_counting.py on sample dataset itcont.txt..."
-python3 ./src/pharmacy_counting.py -i ./input/itcont.txt -o ./output/top_cost_drug.txt
+python ./src/pharmacy_counting.py -i ./input/itcont.txt -o ./output/top_cost_drug.txt
 echo "Done"
 
 # echo " "
