@@ -46,7 +46,6 @@ function setup_testing_input_output {
 
   cp -r ${PROJECT_PATH}/src ${TEST_OUTPUT_PATH}
   cp -r ${PROJECT_PATH}/run.sh ${TEST_OUTPUT_PATH}
-  cp -r ${PROJECT_PATH}/run_test.sh ${TEST_OUTPUT_PATH}
   cp -r ${PROJECT_PATH}/input ${TEST_OUTPUT_PATH}
   cp -r ${PROJECT_PATH}/output ${TEST_OUTPUT_PATH}
 

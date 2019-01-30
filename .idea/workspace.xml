@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="568df190-86fc-4697-ae05-52fd791fae81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/insight_testsuite/temp/run_test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insight_testsuite/run_tests.sh" beforeDir="false" afterPath="$PROJECT_DIR$/insight_testsuite/run_tests.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="run.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
@@ -32,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_tests.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="run_tests.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/insight_testsuite/run_tests.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="146" column="32" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="32" />
+            <state relative-caret-position="238">
+              <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -94,7 +93,6 @@
         <option value="$PROJECT_DIR$/src/testCases.py" />
         <option value="$PROJECT_DIR$/src/unit_test_cases.py" />
         <option value="$PROJECT_DIR$/src/DataTool.py" />
-        <option value="$PROJECT_DIR$/insight_testsuite/run_tests.sh" />
         <option value="$PROJECT_DIR$/src/dataset_tool.py" />
         <option value="$PROJECT_DIR$/src/saveOutput.py" />
         <option value="$PROJECT_DIR$/src/reducer.py" />
@@ -104,6 +102,7 @@
         <option value="$PROJECT_DIR$/run.sh" />
         <option value="$PROJECT_DIR$/insight_testsuite/temp/run_test.sh" />
         <option value="$PROJECT_DIR$/insight_testsuite/temp/run.sh" />
+        <option value="$PROJECT_DIR$/insight_testsuite/run_tests.sh" />
       </list>
     </option>
   </component>
@@ -475,13 +474,6 @@
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/insight_testsuite/temp/run.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
@@ -503,17 +495,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insight_testsuite/run_tests.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="146" column="32" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insight_testsuite/temp/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insight_testsuite/run_tests.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
         </state>
       </provider>
     </entry>
